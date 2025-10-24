@@ -190,7 +190,7 @@ class MainWindow(QMainWindow):
         main_layout.setSpacing(15)
 
 
-        title_label = QLabel("WebServer Grabber")
+        title_label = QLabel("WebServer Grabber V3 by Gaming Hund")
         title_label.setFont(QFont("Arial", 24, QFont.Bold))
         title_label.setAlignment(Qt.AlignCenter)
         main_layout.addWidget(title_label)
